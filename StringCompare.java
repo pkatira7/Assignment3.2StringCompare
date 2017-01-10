@@ -9,10 +9,14 @@ public class StringCompare {
     
    if (s1==s2) 
     {
-	 
-	   boolean same= true;
+	  boolean same= true;
 	System.out.println(same);
     }
+   else 
+   {
+	   boolean same= false;
+		System.out.println(same);
+   }
 	}
 
 }
